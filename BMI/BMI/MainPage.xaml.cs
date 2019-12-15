@@ -136,27 +136,27 @@ namespace BMI
                     {
                         categoria = IMC.VERY_SEVERELY_UNDER_WEIGHT;
                     }
-                    else if (imc < 6.0)
+                    else if (imc < 7.0)
                     {
                         categoria = IMC.SEVERELY_UNDER_WEIGHT;
                     }
-                    else if (imc < 6.2)
+                    else if (imc < 7.2)
                     {
                         categoria = IMC.UNDER_WEIGHT;
                     }
-                    else if (imc < 7.0)
+                    else if (imc < 8.0)
                     {
                         categoria = IMC.NORMAL;
                     }
-                    else if (imc < 7.8)
+                    else if (imc < 8.8)
                     {
                         categoria = IMC.OVER_wEIGHT;
                     }
-                    else if (imc < 8.7)
+                    else if (imc < 9.7)
                     {
                         categoria = IMC.MODERATELY_OBESE;
                     }
-                    else if (imc < 8.9)
+                    else if (imc < 9.9)
                     {
                         categoria = IMC.SEVERELY_OBESE;
                     }
@@ -171,27 +171,27 @@ namespace BMI
                     {
                         categoria = IMC.VERY_SEVERELY_UNDER_WEIGHT;
                     }
-                    else if (imc < 6.0)
+                    else if (imc < 12.0)
                     {
                         categoria = IMC.SEVERELY_UNDER_WEIGHT;
                     }
-                    else if (imc < 6.2)
+                    else if (imc < 13.2)
                     {
                         categoria = IMC.UNDER_WEIGHT;
                     }
-                    else if (imc < 7.0)
+                    else if (imc < 14.0)
                     {
                         categoria = IMC.NORMAL;
                     }
-                    else if (imc < 7.8)
+                    else if (imc < 17.8)
                     {
                         categoria = IMC.OVER_wEIGHT;
                     }
-                    else if (imc < 8.7)
+                    else if (imc < 18.7)
                     {
                         categoria = IMC.MODERATELY_OBESE;
                     }
-                    else if (imc < 8.9)
+                    else if (imc < 20)
                     {
                         categoria = IMC.SEVERELY_OBESE;
                     }
@@ -206,27 +206,27 @@ namespace BMI
                     {
                         categoria = IMC.VERY_SEVERELY_UNDER_WEIGHT;
                     }
-                    else if (imc < 6.0)
+                    else if (imc < 12.0)
                     {
                         categoria = IMC.SEVERELY_UNDER_WEIGHT;
                     }
-                    else if (imc < 6.2)
+                    else if (imc < 13.2)
                     {
                         categoria = IMC.UNDER_WEIGHT;
                     }
-                    else if (imc < 7.0)
+                    else if (imc < 14.0)
                     {
                         categoria = IMC.NORMAL;
                     }
-                    else if (imc < 7.8)
+                    else if (imc < 14.8)
                     {
                         categoria = IMC.OVER_wEIGHT;
                     }
-                    else if (imc < 8.7)
+                    else if (imc < 15.7)
                     {
                         categoria = IMC.MODERATELY_OBESE;
                     }
-                    else if (imc < 8.9)
+                    else if (imc < 16.9)
                     {
                         categoria = IMC.SEVERELY_OBESE;
                     }
